@@ -1,6 +1,9 @@
 # AngularCrash
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
+- This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
+- This project was built by Tess Thomas per Traversy Media's Angular Crash Course tutorial, with modifications to accommodate the most recent Angular version and some added functionality.
+- Tutorial assigned in WEB 215 - Advanced Scripting.
+- Modifications developed on the fly, not by instruction.
 
 ## Development server
 
